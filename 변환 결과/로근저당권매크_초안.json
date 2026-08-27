@@ -1,0 +1,298 @@
+{
+    "format":  "regimacro",
+    "version":  2,
+    "name":  "로근저당권매크",
+    "createdAt":  "2026-08-27 09:00:25",
+    "source":  {
+                   "type":  "wem-import",
+                   "file":  "로근저당권매크.wem",
+                   "recordedSegment":  "left",
+                   "originalSpan":  "dual-fhd-3840x1080",
+                   "coordinateNormalization":  "monitor-local"
+               },
+    "baseResolution":  {
+                           "width":  1920,
+                           "height":  1080
+                       },
+    "settings":  {
+                     "defaultIntervalMs":  2000
+                 },
+    "sections":  [
+                     {
+                         "label":  "구간 1",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  302,
+                                           "type":  "mouse",
+                                           "x":  784,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_1"
+                     },
+                     {
+                         "label":  "구간 2 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  978,
+                                           "type":  "mouse",
+                                           "x":  1717,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_2"
+                     },
+                     {
+                         "label":  "구간 3 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  999,
+                                           "type":  "mouse",
+                                           "x":  1450,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_3"
+                     },
+                     {
+                         "label":  "구간 4 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  871,
+                                           "type":  "mouse",
+                                           "x":  1689,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_4"
+                     },
+                     {
+                         "label":  "구간 5 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  591,
+                                           "type":  "mouse",
+                                           "x":  931,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_5"
+                     },
+                     {
+                         "label":  "구간 6 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  866,
+                                           "type":  "mouse",
+                                           "x":  1760,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_6"
+                     },
+                     {
+                         "label":  "구간 7 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  928,
+                                           "type":  "mouse",
+                                           "x":  1725,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_7"
+                     },
+                     {
+                         "label":  "구간 8 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  1000,
+                                           "type":  "mouse",
+                                           "x":  1603,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_8"
+                     },
+                     {
+                         "label":  "구간 9 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  723,
+                                           "type":  "mouse",
+                                           "x":  1088,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_9"
+                     },
+                     {
+                         "label":  "구간 10 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  731,
+                                           "type":  "mouse",
+                                           "x":  1263,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_10"
+                     },
+                     {
+                         "label":  "구간 11 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  731,
+                                           "type":  "mouse",
+                                           "x":  1474,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_11"
+                     },
+                     {
+                         "label":  "구간 12 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "y":  731,
+                                           "action":  "left_click",
+                                           "coordMode":  "screen",
+                                           "type":  "mouse",
+                                           "x":  1474,
+                                           "note":  "연속 클릭 - 더블클릭 의심 (검토 필요)",
+                                           "interval":  ""
+                                       }
+                                   ],
+                         "id":  "sec_12"
+                     },
+                     {
+                         "label":  "구간 13 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  668,
+                                           "type":  "mouse",
+                                           "x":  1272,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_13"
+                     },
+                     {
+                         "label":  "구간 14 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  728,
+                                           "type":  "mouse",
+                                           "x":  1392,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_14"
+                     },
+                     {
+                         "label":  "구간 15 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  296,
+                                           "type":  "mouse",
+                                           "x":  742,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_15"
+                     },
+                     {
+                         "label":  "구간 16 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  551,
+                                           "type":  "mouse",
+                                           "x":  1104,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_16"
+                     },
+                     {
+                         "label":  "구간 17 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  748,
+                                           "type":  "mouse",
+                                           "x":  1600,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_17"
+                     },
+                     {
+                         "label":  "구간 18 (자동분할)",
+                         "clips":  [
+                                       {
+                                           "action":  "left_click",
+                                           "note":  "",
+                                           "interval":  "",
+                                           "y":  999,
+                                           "type":  "mouse",
+                                           "x":  1720,
+                                           "coordMode":  "screen"
+                                       }
+                                   ],
+                         "id":  "sec_18"
+                     }
+                 ],
+    "importStats":  {
+                        "keyRunCount":  0,
+                        "sectionCount":  18,
+                        "clickCount":  18,
+                        "totalSamples":  2445
+                    }
+}

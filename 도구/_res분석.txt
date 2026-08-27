@@ -1,0 +1,6 @@
+로근저당권매크: baseResolution=1920x1080(specified) / sections=18 / ids=sec_1,sec_2,sec_3,sec_4,sec_5,sec_6,sec_7,sec_8,sec_9,sec_10,sec_11,sec_12,sec_13,sec_14,sec_15,sec_16,sec_17,sec_18
+로소유권이전매크: baseResolution=1920x1080(specified) / sections=36 / ids=sec_1,sec_2,sec_3,sec_4,sec_5,sec_6,sec_7,sec_8,sec_9,sec_10,sec_11,sec_12,sec_13,sec_14,sec_15,sec_16,sec_17,sec_18,sec_19,sec_20,sec_21,sec_22,sec_23,sec_24,sec_25,sec_26,sec_27,sec_28,sec_29,sec_30,sec_31,sec_32,sec_33,sec_34,sec_35,sec_36
+별도등기말소: baseResolution=1920x1080(specified) / sections=19 / ids=sec_1,sec_2,sec_3,sec_4,sec_5,sec_6,sec_7,sec_8,sec_9,sec_10,sec_11,sec_12,sec_13,sec_14,sec_15,sec_16,sec_17,sec_18,sec_19
+소신탁주의사항말: baseResolution=1920x1080(specified) / sections=12 / ids=sec_1,sec_2,sec_3,sec_4,sec_5,sec_6,sec_7,sec_8,sec_9,sec_10,sec_11,sec_12
+전소유권이: baseResolution=1920x1080(specified) / sections=39 / ids=sec_1,sec_2,sec_3,sec_4,sec_5,sec_6,sec_7,sec_8,sec_9,sec_10,sec_11,sec_12,sec_13,sec_14,sec_15,sec_16,sec_17,sec_18,sec_19,sec_20,sec_21,sec_22,sec_23,sec_24,sec_25,sec_26,sec_27,sec_28,sec_29,sec_30,sec_31,sec_32,sec_33,sec_34,sec_35,sec_36,sec_37,sec_38,sec_39
+후순위: baseResolution=x() / sections=33 / ids=,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,

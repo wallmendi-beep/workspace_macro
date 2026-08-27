@@ -1,0 +1,46 @@
+﻿# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Pytest / test cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Scratch & temporary dirs
+scratch/
+*.tmp
+*.log
+
+# Environments
+.venv/
+env/
+venv/
+ENV/
+
+# OS metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE & Editor
+.vscode/
+.idea/
+
+# Security & Private data (비공개 / 외부공유금지)
+*외부공유금지*
+*비공개*
+근거자료/
+*.jpg
+*.png
+
+# Work logs & Process documents (작업과정 / 협업 / 대화록 / 백업)
+협업/
+백업용 파일/
+*.md
+!README.md
+!도구/**/README.md
+project.md
